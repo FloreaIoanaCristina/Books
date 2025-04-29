@@ -1,0 +1,62 @@
+[
+    {
+        "Id":1,
+        "Name": "Fiction"
+    },
+    {
+        "Id":2,
+        "Name": "Fantasy"
+    },
+    {
+        "Id":3,
+        "Name": "Non-fiction"
+    },
+    {
+        "Id":4,
+        "Name": "Mathematics and science"
+    },
+    {
+        "Id":5,
+        "Name": "Technology"
+    },
+    {
+        "Id":6,
+        "Name": "Economics, finance and business management"
+    },
+    {
+        "Id":7,
+        "Name": "Law"
+    },
+    {
+        "Id":8,
+        "Name": "Language"
+    },
+    {
+        "Id":9,
+        "Name": "Horror and ghost stories"
+    },
+    {
+        "Id":10,
+        "Name": "Romance"
+    },
+    {
+        "Id":11,
+        "Name": "Adventure"
+    },
+    {
+        "Id":12,
+        "Name": "Comedy"
+    },
+    {
+        "Id":13,
+        "Name": "Historical fiction"
+    },
+    {
+        "Id":14,
+        "Name": "Children's books"
+    },
+    {
+        "Id":15,
+        "Name": "Social Sciences"
+    }
+]

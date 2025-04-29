@@ -1,0 +1,89 @@
+[
+    {
+      "Title": "Age of Vice",
+      "Author": "Deepti Kapoor",
+      "GenreId": 1,
+      "Description": "In the shadow of lavish estates, extravagant parties, predatory business deals and calculated political influence, three lives become dangerously intertwined: Ajay is the watchful servant, born into poverty, who rises through the family’s ranks. Sunny is the playboy heir who dreams of outshining his father, whatever the cost. And Neda is the curious journalist caught between morality and desire. Against a sweeping plot fueled by loss, pleasure, greed, yearning, violence and revenge, will these characters’ connections become a path to escape, or a trigger of further destruction?",
+      
+      "Review": "",
+      "BPhotos": [
+        {
+          "UrlBook": "C:/Users/Daria/Desktop/Licentavarianta_ultima/Licenta18.04/Licenta/Licenta/Licenta/Licenta/Books/images/ageOf.jpg",
+
+              "IsMain": true
+          
+        }
+      ]
+    },
+    {
+      "Title": "City Under One Roof",
+      "Author": "Iris Yamashita",
+      "GenreId": 1,
+      "Description": "A stranded detective tries to solve a murder in a tiny Alaskan town where everyone lives in a single high-rise building, in this gripping debut by an Academy Award–nominated screenwriter.",
+      "Review": "",
+      "BPhotos": [
+        {
+          "UrlBook": "C:/Users/Daria/Desktop/Licentavarianta_ultima/Licenta18.04/Licenta/Licenta/Licenta/Licenta/Books/images/cityUnder.jpg",
+              "IsMain": true
+          
+        }
+      ]
+    },
+    {
+      "Title": "The World and All that It Holds",
+      "Author": "Aleksandar Hemon",
+      "GenreId": 1,
+      "Description": "The World and All That It Holds--in all its hilarious, heartbreaking, erotic, philosophical glory--showcases Aleksandar Hemon's celebrated talent at its pinnacle. It is a grand, tender, sweeping story that spans decades and continents.",
+      "Review":"",
+      "BPhotos": [
+        {
+          "UrlBook": "C:/Users/Daria/Desktop/Licentavarianta_ultima/Licenta18.04/Licenta/Licenta/Licenta/Licenta/Books/images/theWorldAndAll.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "Title": "Maame",
+      "Author": "Jessica George",
+      "GenreId": 1,
+      "Description": "Smart, funny, and deeply affecting, Jessica George's Maame deals with the themes of our time with humor and poignancy: from familial duty and racism, to female pleasure, the complexity of love, and the life-saving power of friendship. Most important, it explores what it feels like to be torn between two homes and cultures―and it celebrates finally being able to find where you belong.\r\n",
+      "Review":"",
+      "BPhotos": [
+        {
+          "UrlBook": "C:/Users/Daria/Desktop/Licentavarianta_ultima/Licenta18.04/Licenta/Licenta/Licenta/Licenta/Books/images/maame.jpg",
+              "IsMain": true
+          
+        }
+      ]
+    },
+    
+        {
+          "Title": "A Game of Thrones",
+          "Author": "George R.R. Martin",
+          "GenreId": 2,
+          "Description": "Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister forces are massing beyond the kingdom’s protective Wall. To the south, the king’s powers are failing—his most trusted adviser dead under mysterious circumstances and his enemies emerging from the shadows of the throne. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the frozen land they were born to. Now Lord Eddard Stark is reluctantly summoned to serve as the king’s new Hand, an appointment that threatens to sunder not only his family but the kingdom itself.\r\n",
+          "Review":"",
+          "BPhotos": [
+            {
+              "UrlBook": "C:/Users/Daria/Desktop/Licentavarianta_ultima/Licenta18.04/Licenta/Licenta/Licenta/Licenta/Books/images/agameof.jpg",
+              "IsMain": true
+            }
+          ]
+        },
+        
+        {
+          "Title": "The Fellowship of the Ring",
+          "Author": "J.R.R. Tolkien",
+          "GenreId": 2,
+          "Description": "In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit.\r\n",
+          "Review":"",
+          "BPhotos": [
+            {
+              "UrlBook": "C:/Users/Daria/Desktop/Licentavarianta_ultima/Licenta18.04/Licenta/Licenta/Licenta/Licenta/Books/images/thefellowship.jpg",
+              "IsMain": true
+             
+            }
+          ]
+        }
+]
+        

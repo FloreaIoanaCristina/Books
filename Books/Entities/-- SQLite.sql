@@ -1,0 +1,7 @@
+-- SQLite
+-- INSERT INTO Users (Id, UserName)
+-- VALUES (1,"Daria");
+-- INSERT INTO Users (Id, UserName)
+-- VALUES (2,"Denisa");
+-- INSERT INTO Users (Id, UserName)
+-- VALUES (3,"Anto");
